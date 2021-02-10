@@ -9,4 +9,4 @@ Click the link below to take a sneak peek of my project's website
 
 Have fun!
 
-https://this-is-a-sushi.github.io/Airbnb_Project_HTML/
+https://suzanneongcodes.github.io/Airbnb_Project_HTML/

@@ -15,4 +15,4 @@ Description:
 
 Have fun!
 
-https://suzanneongcodes.github.io/Airbnb_Project_HTML/
+https://SuzanneOngCodes.github.io/Airbnb_Project_Research/
